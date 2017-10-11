@@ -4,3 +4,9 @@ The objective of this course is to learn foundational techniques and algorithms 
 ## Lab 1: Kalman Filter
 Implemented a Kalman Filter to estimate the states of an autonomous underwater vehicle (AUV).
 
+## Lab 2: Extended Kalman Filter
+
+## Lab 3: Unscented Kalman Filter
+
+## Lab 4: Particle Filter
+
