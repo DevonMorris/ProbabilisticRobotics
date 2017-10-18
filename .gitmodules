@@ -1,0 +1,3 @@
+[submodule "turtlebot-eif-localization"]
+	path = turtlebot-eif-localization
+	url = https://github.com/plusk01/turtlebot-eif-localization.git
